@@ -1,3 +1,5 @@
+package main.java.com.asher.pixelquest;
+
 import com.almasb.fxgl.app.GameApplication;
 import com.almasb.fxgl.app.GameSettings;
 import com.almasb.fxgl.dsl.FXGL;
@@ -22,9 +24,7 @@ public class PixelQuestApp extends GameApplication {
 
     @Override
     protected void initInput() {
-        FXGL.onKey(KeyCode.D, ()-> {
-            player.translateX(+1);
-        });
+        FXGL.onKey(KeyCode.D, ()-> player.translateX(+1));
     }
 
     public static void main(String[] args) {

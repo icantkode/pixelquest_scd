@@ -33,7 +33,7 @@ Scene Factory: class com.almasb.fxgl.app.scene.SceneFactory
 00:58:10.961 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Scene size: 1000.0 x 600.0
 00:58:10.961 [JavaFX Application Thread] DEBUG PrimaryStageWindow   - Stage size: 1014.4000244140625 x 637.5999755859375
 00:58:10.967 [FXGL Background Thread 1 ] DEBUG Engine               - Initializing environment variables
-00:58:11.014 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - User app class for loading assets: class PixelQuestApp
+00:58:11.014 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - User app class for loading assets: class com.asher.pixelquest.PixelQuestApp
 00:58:11.015 [FXGL Background Thread 1 ] DEBUG GameApplicationServi - Applying CSS: fxgl_dark.css
 00:58:11.015 [FXGL Background Thread 1 ] DEBUG FXGLAssetLoaderServi - Loading from file system: jar:file:/C:/Users/Asher%20Siddique/Downloads/fxgl-17.3-uber.jar!/fxglassets/ui/css/fxgl_dark.css
 00:58:11.049 [FXGL Background Thread 1 ] DEBUG GameApplicationServi - Initializing application scenes
@@ -170,7 +170,7 @@ Scene Factory: class com.almasb.fxgl.app.scene.SceneFactory
 00:58:14.599 [FXGL Background Thread 3 ] DEBUG Engine               - urlGithub: https://github.com/AlmasB/FXGL
 00:58:14.600 [FXGL Background Thread 3 ] DEBUG Engine               - urlLeaderboard: http://fxgl-top.herokuapp.com/
 00:58:14.600 [FXGL Background Thread 3 ] DEBUG Engine               - urlPOM: https://raw.githubusercontent.com/AlmasB/FXGL/release/README.md
-00:58:14.600 [FXGL Background Thread 3 ] DEBUG Engine               - userAppClass: class PixelQuestApp
+00:58:14.600 [FXGL Background Thread 3 ] DEBUG Engine               - userAppClass: class com.asher.pixelquest.PixelQuestApp
 00:58:14.600 [FXGL Background Thread 3 ] DEBUG Engine               - version: 0.0
 00:58:14.600 [FXGL Background Thread 3 ] DEBUG Engine               - versionCheckDays: 7
 00:58:14.600 [FXGL Background Thread 3 ] DEBUG Engine               - width: 1000
