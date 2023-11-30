@@ -1,0 +1,19 @@
+window size 1150 x 647
+
+scene 1:
+bg pic : 0,0
+floor: 0,426
+wall: 985, 255
+ledge: 928, 305
+
+scene 2:
+bg pic : -67, 0
+surface : -290, 251
+cliff : -64, 298
+
+scene 3:
+bg pic : 0,0
+surface : -169, 260
+jump 1 : 951, 398
+jump 2 : 1018, 352
+jump 3 : 1062, 306
